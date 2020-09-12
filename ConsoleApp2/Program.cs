@@ -6,8 +6,12 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola no entiendo bien el visual studio y el github");
+            Console.WriteLine("Hola no entiendo bien el visual studio y el github")
+                        Console.ReadKey();
+            Console.WriteLine("Marisol:  Si igual yo :(");
             Console.ReadKey();
         }
+                                          
+        
     }
 }
